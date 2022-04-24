@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.function.Predicate;
 
-public class MainActivity<check_sky> extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     Button sky, grass, root;
     String sky_arr[] = {"b","d","f","h","l","t"};
     String grass_arr[] = {"a","c","i","e","m","n","o","r","s","u","v","w","x"};
